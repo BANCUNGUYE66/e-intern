@@ -1,0 +1,16 @@
+I0323 15:59:07.481650   23747 load.go:37] Reloading schema and connectors...
+I0323 15:59:07.504488   23747 control.go:59] [/emulator/e-intern dbcc] UpdateResources(): done
+Schema: sources: schema/schema.gql [2088B] 
+Connector "default": sources: connector/mutations.gql [1233B] connector/queries.gql [1802B] 
+I0323 15:59:07.516450   23747 codegen.go:82] [connector "default" javascriptSdk] Generating sources into "/Users/bancunguyeaimable/e-intern/dataconnect-generated/js/default-connector"
+I0323 15:59:07.527871   23747 collector.go:107] schema extensions wrote into "/Users/bancunguyeaimable/e-intern/dataconnect/.dataconnect/schema"
+Generated sources: prelude.gql [66094B] 
+I0323 15:59:07.528991   23747 collector.go:107] connector "default" javascriptSdk wrote into "/Users/bancunguyeaimable/e-intern/dataconnect-generated/js/default-connector"
+Generated sources: angular/index.d.ts [0B] index.d.ts [246B] esm/index.esm.js [111B] README.md [2800B] react/index.d.ts [228B] react/esm/package.json [17B] react/index.cjs.js [0B] react/esm/index.esm.js [0B] package.json [1145B] angular/package.json [661B] angular/esm/index.esm.js [0B] angular/esm/package.json [17B] angular/index.cjs.js [1B] esm/package.json [17B] index.cjs.js [147B] react/package.json [468B] react/README.md [5443B] 
+I0323 15:59:07.532897   23747 installsdk.go:48] Package @firebasegen/default-connector is already installed. Skipping installation
+I0323 15:59:07.532972   23747 load.go:115] Finished reloading
+I0323 15:59:07.535771   23747 dev.go:95] Listening on address (HTTP + gRPC): 127.0.0.1:9399
+I0323 15:59:07.536562   23747 dev.go:95] Listening on address (HTTP + gRPC): [::1]:9399
+I0323 15:59:09.935330   23747 control.go:59] [/emulator/e-intern 67da] UpdateResources(): done
+Schema: sources: schema/schema.gql [2088B] 
+Connector "default": sources: connector/queries.gql [1802B] connector/mutations.gql [1233B] 
