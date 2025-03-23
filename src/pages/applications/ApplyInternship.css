@@ -1,0 +1,16 @@
+/* This file can be empty for now since we're using the styles from ApplicationForm.css */
+/* But we can add page-specific styles here if needed later */
+
+.success-message {
+  background-color: #d4edda;
+  color: #155724;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 2rem;
+} 
