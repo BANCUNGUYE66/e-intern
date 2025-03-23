@@ -1,0 +1,37 @@
+.home-page {
+  text-align: center;
+  padding: 2rem;
+}
+
+.home-page h1 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.home-page p {
+  color: #666;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.features {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.features h2 {
+  color: #444;
+  margin-bottom: 1rem;
+}
+
+.features ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features li {
+  padding: 0.5rem 0;
+  color: #555;
+  font-size: 1.1rem;
+} 
